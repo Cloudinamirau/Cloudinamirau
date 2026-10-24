@@ -1,6 +1,7 @@
 <!-- ANIME-INSPIRED GITHUB PROFILE -->
 
 <div align="center">
+<img width="2560" height="1275" alt="image" src="https://github.com/user-attachments/assets/26356734-baec-4d06-a5f3-111b0a536b9c" />
 
 ☁️ Cloudinamirau
 
