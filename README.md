@@ -1,13 +1,9 @@
 <!-- ANIME-INSPIRED GITHUB PROFILE -->
 
 <div align="center">
-<img width="2560" height="1275" alt="image" src="https://github.com/user-attachments/assets/26356734-baec-4d06-a5f3-111b0a536b9c" />
+<img width="2560" height="1275" alt="image" src="https://github.com/user-attachments/assets/26356734-baec-4d06-a5f3-111b0a536b9c" /
 
-☁️ Cloudinamirau
 
-｡･:*˚:✧｡ finding my own way through code ｡✧:˚*:･｡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B33,50:126EAA,100:8BE9FD&height=220&section=header&text=Cloudinamirau&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20little%20corner&descAlignY=58&descSize=16" width="100%" alt="Blue anime-inspired profile banner"/>
 
 「 A little world of curiosity, creativity & endless possibilities 」
 
