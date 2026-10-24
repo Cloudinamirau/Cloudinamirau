@@ -3,30 +3,11 @@
 <div align="center">
 <img width="2560" height="1275" alt="image" src="https://github.com/user-attachments/assets/26356734-baec-4d06-a5f3-111b0a536b9c" /
 
-
-
-「 A little world of curiosity, creativity & endless possibilities 」
-
 </div>
 
+about
 
-
-🩵 About me
-
-username: Cloudinamirau
-
-currently: exploring and learning
-
-interests:
-
-  - technology
-
-  - creative projects
-
-  - anime & digital aesthetics
-
-motto: "One step at a time ☁️"
-
+14-year-old software engineer, systems builder & ml enthusiast. co-founder and cto at neuralese. building high-performance systems, visual ai tooling, embedded hardware, and developer infrastructure.
 > 🌙 Still discovering my path. This profile will grow along with me.
 
 ✦ My little corner
