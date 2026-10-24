@@ -5,7 +5,7 @@
 ### about
 14-year-old software engineer, systems builder & ml enthusiast. co-founder and cto at [neuralese](https://www.youtube.com/watch?v=218K0ffants). building high-performance systems, visual ai tooling, embedded hardware, and developer infrastructure.
 
-🌐 [alimbv.com](https://www.alimbv.com/) • ✉️ [wifiskeleton300@gmail.com](mailto:wifiskeleton300@gmail.com)
+🌐 [alimbv.com](https://www.alimbv.com/) • ✉️ [aemeath.officiall@gmail.com](aemeath.officiall@gmail.com)
 
 ---
 
